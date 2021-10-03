@@ -32,4 +32,4 @@ For each of the `N` triples, output one new line which contains the second-maxim
 
 ---
 
-[Solution](./52002263.py)
+[Solution](./52001414.py)
